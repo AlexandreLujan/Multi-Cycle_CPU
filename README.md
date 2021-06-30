@@ -8,16 +8,16 @@
 (Copyright (C) 2020 Intel Corporation. All rights reserved).
 
 ## Circuit Schematic
-![alt text](https://github.com/AlexandreLujan/Single-Cycle_CPU/blob/main/Schematic.jpg?raw=true)
+![alt text](https://github.com/AlexandreLujan/Multi-Cycle_CPU/blob/main/Schematic.jpg?raw=true)
 
 ## Instructions
-![alt text](https://github.com/AlexandreLujan/Single-Cycle_CPU/blob/main/Opcode.jpg?raw=true)
+![alt text](https://github.com/AlexandreLujan/Multi-Cycle_CPU/blob/main/Opcode.jpg?raw=true)
 
 ## State Machine
-![alt text](https://github.com/AlexandreLujan/Single-Cycle_CPU/blob/main/State_Machine.jpg?raw=true)
+![alt text](https://github.com/AlexandreLujan/Multi-Cycle_CPU/blob/main/State_Machine.jpg?raw=true)
 
 ## Simulation
 -Simulation result using ModelSim-Altera contained in Quartus.<br />
 -Note: This project uses a testbench and needs to be loaded into the simulation.<br />
-![alt text](https://github.com/AlexandreLujan/Single-Cycle_CPU/blob/main/Simulation_1.jpg?raw=true)
-![alt text](https://github.com/AlexandreLujan/Single-Cycle_CPU/blob/main/Simulation_2.jpg?raw=true)
+![alt text](https://github.com/AlexandreLujan/Multi-Cycle_CPU/blob/main/Simulation_1.jpg?raw=true)
+![alt text](https://github.com/AlexandreLujan/Multi-Cycle_CPU/blob/main/Simulation_2.jpg?raw=true)
