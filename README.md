@@ -1,5 +1,5 @@
 # Multi-Cycle_CPU
--Implementation of a Single-Cycle CPU in VHDL.<br />
+-Implementation of a Multi-Cycle CPU in VHDL.<br />
 -Instruction per Cycle.<br />
 -Control unit based on a finite state machine.<br />
 
