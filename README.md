@@ -1,6 +1,6 @@
 # Single-Cycle_CPU
 -Implementation of a Single-Cycle CPU in VHDL.<br />
--One Instruction per Cycle.<br />
+-Instruction per Cycle.<br />
 -Control unit based on a finite state machine.<br />
 
 ## Built With
